@@ -3,4 +3,8 @@ hello how are you
 I am fine
 Good. Thank you
 
+<<<<<<< HEAD
 When are you travelling
+=======
+Great. Nice talking to you
+>>>>>>> marvel
